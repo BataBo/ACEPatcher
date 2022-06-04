@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ACEPatcher", "ACEPatcher\ACEPatcher.csproj", "{F7F4A377-F96F-4CB6-91F1-BCEE82A8DE63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AceTest", "AceTest\AceTest.csproj", "{6699F677-F1B1-49EB-BB34-509714188027}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7F4A377-F96F-4CB6-91F1-BCEE82A8DE63}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{F7F4A377-F96F-4CB6-91F1-BCEE82A8DE63}.Debug|Any CPU.Build.0 = Debug|x64
+		{F7F4A377-F96F-4CB6-91F1-BCEE82A8DE63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7F4A377-F96F-4CB6-91F1-BCEE82A8DE63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6699F677-F1B1-49EB-BB34-509714188027}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6699F677-F1B1-49EB-BB34-509714188027}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6699F677-F1B1-49EB-BB34-509714188027}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6699F677-F1B1-49EB-BB34-509714188027}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0208B823-B731-4D3C-96B0-FCCE4E00F5B2}
+	EndGlobalSection
+EndGlobal
